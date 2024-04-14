@@ -21,6 +21,7 @@
 **tf_od_model_zoo_efficientdetd1_pedestrian_dataset.ipynb**: TensorFlow 객체 탐지 모델 족(EfficientDet D1)과 보행자 데이터셋을 사용하는 예제가 포함된 ipython notebook 파일입니다.<br><br>
 **tf_record_example.ipynb**: TensorFlow 레코드를 사용하는 예제가 포함된 ipython notebook 파일입니다.
 
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
 
-https://www.tensorflow.org/hub?hl=ko
+출처 :  https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+
+        https://www.tensorflow.org/hub?hl=ko
