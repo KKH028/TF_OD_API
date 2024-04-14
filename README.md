@@ -22,6 +22,4 @@
 **tf_record_example.ipynb**: TensorFlow 레코드를 사용하는 예제가 포함된 ipython notebook 파일입니다.
 
 
-출처 :  https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
-
-        https://www.tensorflow.org/hub?hl=ko
+> 출처 :  https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md <br><br>https://www.tensorflow.org/hub?hl=ko
