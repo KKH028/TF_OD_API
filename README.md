@@ -11,7 +11,7 @@
 **ssd_mobilenet_v2**: SSD MobileNet V2 모델에 관련된 파일들이 있는 디렉터리입니다.<br><br>
 **tensorflow serving model**: TensorFlow Serving 모델 파일이 있는 디렉터리입니다.<br><br>
 **transfer learning confs**: 전이 학습 설정 파일이 있는 디렉터리입니다.
-
+<br><br><br>
 
 **Retrain_EfficientDet_Lite_detector_for_the_Edge_TPU_(TF2).ipynb**: TF2를 사용하여 Edge TPU를 위해 EfficientDet Lite 탐지기를 재훈련하는 작업이 포함된 주피터 노트북 파일입니다.<br><br>
 **make_tf_record_example.ipynb**: TensorFlow 레코드를 만드는 예제가 포함된 주피터 노트북 파일입니다.<br><br>
